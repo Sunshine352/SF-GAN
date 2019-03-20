@@ -7,7 +7,7 @@ Spatial Fusion GAN for Image Synthesis as described in https://arxiv.org/abs/181
 # Citation
 If you find this project helpful for your research, please cite the following paper:
 ```
-@article{fnzhan2019_2,
+@article{zhan2019sfgan,
   author  = {Fangneng Zhan, Hongyuan Zhu and Shijian Lu},
   title   = {Spatial Fusion GAN for Image Synthesis},
   journal = {In CVPR},
